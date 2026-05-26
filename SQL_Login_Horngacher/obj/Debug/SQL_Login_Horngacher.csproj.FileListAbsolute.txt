@@ -1,0 +1,10 @@
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\bin\Debug\SQL_Login_Horngacher.exe.config
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\bin\Debug\SQL_Login_Horngacher.exe
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\bin\Debug\SQL_Login_Horngacher.pdb
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.csproj.AssemblyReference.cache
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.Form1.resources
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.Properties.Resources.resources
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.csproj.GenerateResource.cache
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.exe
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQL_Login_Horngacher\obj\Debug\SQL_Login_Horngacher.pdb

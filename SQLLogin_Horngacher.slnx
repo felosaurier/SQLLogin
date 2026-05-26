@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SQLLogin_Database/SQLLogin_Database.csproj" Id="3d120d53-7817-4b74-8992-59b421f668ea" />
+  <Project Path="SQLLogin_Logik/SQLLogin_Logik.csproj" Id="e2266d9e-11a9-415f-b906-75dc0ac72c5e" />
+  <Project Path="SQL_Login_Horngacher/SQLLogin_Winform.csproj" Id="1d92216f-1b2f-4619-85df-bad1b13b4414" />
+</Solution>

@@ -1,0 +1,11 @@
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Logik.dll.config
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Logik.dll
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Logik.pdb
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Database.dll
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Database.pdb
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\bin\Debug\SQLLogin_Database.dll.config
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\obj\Debug\SQLLogin_Logik.csproj.AssemblyReference.cache
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\obj\Debug\SQLLogin_Logik.csproj.CoreCompileInputs.cache
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\obj\Debug\SQLLogin.E326404A.Up2Date
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\obj\Debug\SQLLogin_Logik.dll
+C:\Users\felix\source\source\SQL_Login_Horngacher\SQLLogin_Logik\obj\Debug\SQLLogin_Logik.pdb
